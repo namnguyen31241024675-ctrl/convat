@@ -1,0 +1,15 @@
+C:\Users\Nam\Documents\t\convat\bin\Debug\net9.0\convat.exe
+C:\Users\Nam\Documents\t\convat\bin\Debug\net9.0\convat.deps.json
+C:\Users\Nam\Documents\t\convat\bin\Debug\net9.0\convat.runtimeconfig.json
+C:\Users\Nam\Documents\t\convat\bin\Debug\net9.0\convat.dll
+C:\Users\Nam\Documents\t\convat\bin\Debug\net9.0\convat.pdb
+C:\Users\Nam\Documents\t\convat\obj\Debug\net9.0\convat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nam\Documents\t\convat\obj\Debug\net9.0\convat.AssemblyInfoInputs.cache
+C:\Users\Nam\Documents\t\convat\obj\Debug\net9.0\convat.AssemblyInfo.cs
+C:\Users\Nam\Documents\t\convat\obj\Debug\net9.0\convat.csproj.CoreCompileInputs.cache
+C:\Users\Nam\Documents\t\convat\obj\Debug\net9.0\convat.sourcelink.json
+C:\Users\Nam\Documents\t\convat\obj\Debug\net9.0\convat.dll
+C:\Users\Nam\Documents\t\convat\obj\Debug\net9.0\refint\convat.dll
+C:\Users\Nam\Documents\t\convat\obj\Debug\net9.0\convat.pdb
+C:\Users\Nam\Documents\t\convat\obj\Debug\net9.0\convat.genruntimeconfig.cache
+C:\Users\Nam\Documents\t\convat\obj\Debug\net9.0\ref\convat.dll
